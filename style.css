@@ -1,0 +1,44 @@
+body {
+    background: url(content/background.jpg) ;
+}
+header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    
+}
+a {
+    color: black;
+    font-weight: bold;   
+}
+.content {
+    margin-top: 50px;
+    margin-right: 60% ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif, 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+hr {
+    height: 3px;
+    background-color: rgb(0, 96, 126);
+    border: none
+}
+li {
+    margin: 5px;
+}
+.ulborder {border-left: 3px solid rgb(0, 96, 126) ;}
+
+footer {
+    margin-top: 200px;
+}
+figcaption {
+  width: 502px;
+  padding-bottom: 8px;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  font-style: italic;
+  text-align: center;
+  background-color: rgb(202, 224, 248);
+}
+figure img {
+    vertical-align: middle;
+    border: 8px solid rgb(202, 224, 248);
+}
